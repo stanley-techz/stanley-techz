@@ -6,6 +6,8 @@ As a dedicated Cybersecurity Analyst, I specialise in protecting critical system
 
 Skills: Cyber Threat Intelligence (CTI) • Information Security • Governance, Risk Management, and Compliance (GRC) • cybersecurity analyst • Threat & Vulnerability Management
 
+LinkedIn profile: https://www.linkedin.com/in/stanley-ekechukwu/
+
 - 🔭 I’m currently working on this page.
 
 
