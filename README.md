@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there 👋, my name is Stanley
+#### I am a cybersecurity analyst
+![I am a cybersecurity analyst](https://github.com/stanley-techz)
 
-<!--
-**stanley-techz/stanley-techz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As a dedicated Cybersecurity Analyst, I specialise in protecting critical systems and sensitive data by proactively identifying, mitigating, and responding to cyber threats. With hands-on expertise across threat detection, penetration testing, risk assessment, and regulatory compliance, I help organizations strengthen their security posture in an ever-evolving threat landscape.
 
-Here are some ideas to get you started:
+Skills: Cyber Threat Intelligence (CTI) • Information Security • Governance, Risk Management, and Compliance (GRC) • cybersecurity analyst • Threat & Vulnerability Management
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
